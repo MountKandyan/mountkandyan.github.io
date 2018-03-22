@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "inde.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 20,
     "versionPublish": "4.6.6",
@@ -556,9 +556,9 @@
         }
       ]
     },
-    "page1.html": {
+    "inde.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "Site Under Construction",
         "title": "Under Construction",
         "order": 1
       },
